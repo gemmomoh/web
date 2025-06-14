@@ -5,8 +5,6 @@ unityads.unity3d.com, 11270269075625, DIRECT, a8d6f6e0b23f8e0b
 # IronSource
 ironsrc.com, fb5fc380, DIRECT, e86b1a6d1d1e3a7d
 
-# InMobi
-inmobi.com, 17626040de5747b3914bb730490f3ba1, DIRECT, 0bfd66d529a55807
 
 OWNERDOMAIN=thegem.dev
 ironsrc.com, fb5fc380, Direct
